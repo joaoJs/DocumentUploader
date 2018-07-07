@@ -1,0 +1,123 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Requires: Twitter Bootstrap CSS and JS*/
+
+#login {
+    margin-top: 10%;
+    box-shadow: 0 0 18px #ccc;
+    display: inline-block;
+    width: 200px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.login-container {
+    text-align: center;
+}
+
+.checkbox {
+    margin-left: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table-wrapper {
+    -webkit-overflow-scrolling: touch;
+    overflow-x: auto;
+}
+
+/*table {
+    margin: 0 0 2em 0;
+    width: 100%;
+}
+
+table tbody tr {
+    border: solid 1px #dbdbdb;
+    border-left: 0;
+    border-right: 0;
+}
+
+    table tbody tr:nth-child(2n + 1) {
+        background-color: rgba(144, 144, 144, 0.075);
+    }
+
+table td {
+    padding: 0.75em 0.75em;
+}
+
+table th {
+    color: #555;
+    font-size: 0.9em;
+    font-weight: 600;
+    padding: 0 0.75em 0.75em 0.75em;
+    text-align: left;
+}
+
+table thead {
+    border-bottom: solid 2px #dbdbdb;
+}
+
+table tfoot {
+    border-top: solid 2px #dbdbdb;
+}
+
+table.alt {
+    border-collapse: separate;
+}
+
+table.alt tbody tr td {
+        border: solid 1px #dbdbdb;
+        border-left-width: 0;
+        border-top-width: 0;
+}
+
+table.alt tbody tr td:first-child {
+            border-left-width: 1px;
+        }
+
+table.alt tbody tr:first-child td {
+    border-top-width: 1px;
+}
+
+table.alt thead {
+    border-bottom: 0;
+}
+
+table.alt tfoot {
+    border-top: 0;
+}*/

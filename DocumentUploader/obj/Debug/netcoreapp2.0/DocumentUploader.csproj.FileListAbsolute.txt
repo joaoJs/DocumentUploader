@@ -1,0 +1,11 @@
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\bin\Debug\netcoreapp2.0\DocumentUploader.deps.json
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\bin\Debug\netcoreapp2.0\DocumentUploader.runtimeconfig.json
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\bin\Debug\netcoreapp2.0\DocumentUploader.runtimeconfig.dev.json
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\bin\Debug\netcoreapp2.0\DocumentUploader.dll
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.csproj.CoreCompileInputs.cache
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.AssemblyInfoInputs.cache
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.AssemblyInfo.cs
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\bin\Debug\netcoreapp2.0\DocumentUploader.pdb
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.dll
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.pdb
+C:\Users\joao.campos\source\repos\DocumentUploader\DocumentUploader\obj\Debug\netcoreapp2.0\DocumentUploader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿@model List<DocumentUploader.Models.File> 
+
+@{
+    ViewData["Title"] = "Library";
+}
+<h2>@ViewData["Title"]</h2>
+<h3 style="color:lightseagreen">@ViewData["Message"]</h3>
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (File f in Model)
+            {
+                <tr>
+                    <td>@f.Name</td>
+                    <td>@f.Date</td>
+                    <td><a href="/Files/Download?filename=@f.Name">Download</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
